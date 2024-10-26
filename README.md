@@ -46,7 +46,7 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 
 ---
-
+<!---
 ## 📈 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gayatrikharche&show_icons=true&hide_title=true&count_private=true&theme=radical)
@@ -58,4 +58,5 @@
 ## 👥 Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/gayatrikharche/count.svg)
+-->
 
