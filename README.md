@@ -22,6 +22,8 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-30B8C8?logo=seaborn&logoColor=white&style=flat)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-003D5B?logo=matplotlib&logoColor=white&style=flat)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
+
 
 ---
 
@@ -36,14 +38,19 @@
 ![Artificial Intelligence](https://img.shields.io/badge/-Artificial%20Intelligence-007ACC?style=flat&logo=azure&logoColor=white)
 ![Internet of Things](https://img.shields.io/badge/-IoT-008CBA?style=flat&logo=iot&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D4?style=flat&logo=microsoft&logoColor=white)
-![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-FFA500?style=flat&logo=language&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![API](https://img.shields.io/badge/-API-4A90E2?logo=api&logoColor=white&style=flat)
-![HTCondor](https://img.shields.io/badge/-HTCondor-0066CC?logo=htcondor&logoColor=white&style=flat)
-![NLP](https://img.shields.io/badge/-NLP-8FBBE3?logo=nlp&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
+![API](https://img.shields.io/badge/-API-4A90E2?logo=api&logoColor=white)
+![HTCondor](https://img.shields.io/badge/-HTCondor-0066CC?logo=htcondor&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-8FBBE3?logo=nlp&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apache-spark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
 ---
 <!---
