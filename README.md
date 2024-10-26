@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🎓 Academic Pursuits: Currently pursuing an MS in Machine Learning and Data Science at UC San Diego, with a focus on AI applications.
+- 💻 Recent Internship: Recently interned at the San Diego Supercomputer Center, where I benchmarked machine learning models on a distributed computing platform that enables large-scale, parallel job processing. Now continuing as a Graduate Student Researcher. Now continuing as a Graduate Student Researcher.
+- 💡 Professional Skills: Experienced in machine learning, deep learning, data science, and data analytics, as well as cloud-based data processing and optimizing virtualized environments for research and enterprise.
+- 🌍 Future Vision: Driven to leverage AI and data science to create transformative solutions that address complex, real-world challenges and generate societal impact.
+- 📫 Email: gkharche@ucsd.edu
+
 <!--
 **gayatrikharche/gayatrikharche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
