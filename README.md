@@ -47,18 +47,20 @@
 
 ---
 
+## 📊 Repository Stats
 
-<!--
-**gayatrikharche/gayatrikharche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⭐ Stars: ![Stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY_NAME?style=social)
+- 🍴 Forks: ![Forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY_NAME?style=social)
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+## 🗣️ Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+
+## 👥 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/USERNAME/count.svg)
+
