@@ -47,20 +47,15 @@
 
 ---
 
-## 📊 Repository Stats
-
-- ⭐ Stars: ![Stars](https://img.shields.io/github/stars/USERNAME/REPOSITORY_NAME?style=social)
-- 🍴 Forks: ![Forks](https://img.shields.io/github/forks/USERNAME/REPOSITORY_NAME?style=social)
-
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gayatrikharche&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ## 🗣️ Languages Used
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gayatrikharche&layout=compact&theme=radical)
 
 ## 👥 Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/gayatrikharche/count.svg)
 
