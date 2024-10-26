@@ -10,14 +10,24 @@
 
 ### 🛠️ Technical Skills
 
-
-[Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=sqlite&logoColor=white&style=flat)
+![MATLAB](https://img.shields.io/badge/-MATLAB-EAB8B8?logo=matlab&logoColor=black&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F20?logo=tensorflow&logoColor=white&style=flat)
+![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+![Seaborn](https://img.shields.io/badge/-Seaborn-30B8C8?logo=seaborn&logoColor=white&style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-003D5B?logo=matplotlib&logoColor=white&style=flat)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=flat)
 
 ---
 
 ### 🔧 Technologies
 
-[Data Science](https://img.shields.io/badge/-Data%20Science-00BFFF?style=flat&logo=datastudio&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data%20Science-00BFFF?style=flat&logo=datastudio&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-3A9B5A?style=flat&logo=tableau&logoColor=white)
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-FF6347?style=flat&logo=chart.js&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FFCE00?style=flat&logo=google-cloud&logoColor=black)
@@ -36,8 +46,6 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)
 
 ---
-
-
 
 
 <!--
