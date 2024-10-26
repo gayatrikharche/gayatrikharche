@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🌟 Gayatri Kharche
 
 - 🎓 Academic Pursuits: Currently pursuing an MS in Machine Learning and Data Science at UC San Diego, with a focus on AI applications.
 - 💻 Recent Internship: Recently interned at the San Diego Supercomputer Center, where I benchmarked machine learning models on a distributed computing platform that enables large-scale, parallel job processing. Now continuing as a Graduate Student Researcher. Now continuing as a Graduate Student Researcher.
